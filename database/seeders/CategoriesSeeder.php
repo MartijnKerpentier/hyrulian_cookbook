@@ -66,7 +66,7 @@ class CategoriesSeeder extends Seeder
                 'name' => 'Peppered'
             ],
             [
-                'name' => 'Meat Stuffed'
+                'name' => 'Spiced'
             ],
             [
                 'name' => 'Pilafs'
@@ -103,7 +103,10 @@ class CategoriesSeeder extends Seeder
             ],
             [
                 'name' => 'Monster Food'
-            ]
+            ],
+            [
+                'name' => 'Other'
+            ],
         ];
 
         foreach ($categories as $category) {
