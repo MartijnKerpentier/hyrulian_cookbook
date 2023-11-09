@@ -63,7 +63,7 @@ class CategoriesSeeder extends Seeder
                 'name' => 'Stir-Fried'
             ],
             [
-                'name' => 'Spicy Peppered'
+                'name' => 'Peppered'
             ],
             [
                 'name' => 'Meat Stuffed'
