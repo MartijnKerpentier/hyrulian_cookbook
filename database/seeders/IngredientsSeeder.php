@@ -214,7 +214,19 @@ class IngredientsSeeder extends Seeder
             ],
             [
                 'name' => 'Any Monster Part',
-            ]
+            ],
+            [
+                'name' => 'Hylian Tomato'
+            ],
+            [
+                'name' => 'Stambulb'
+            ],
+            [
+                'name' => 'Oil Jar'
+            ],
+            [
+                'name' => 'Hateno Cheese'
+            ],
         ];
 
         foreach ($ingredients as $ingredient) {
