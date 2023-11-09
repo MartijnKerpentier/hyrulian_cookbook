@@ -14,7 +14,7 @@ return new class extends Migration
         Schema::create('recipes', function (Blueprint $table) {
             $table->id();
             $table->string('name');
-            $table->string('effect');
+            $table->string('effect')->nullable();
             $table->text('description');
             $table->string('image_url')->nullable();
             $table->foreignId('ingredient_id')->nullable()->constrained();
