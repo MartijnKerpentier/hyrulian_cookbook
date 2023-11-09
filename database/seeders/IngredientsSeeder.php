@@ -170,6 +170,9 @@ class IngredientsSeeder extends Seeder
             [
                 'name' => 'Any Vegetable',
             ],
+            [
+                'name' => 'Any Gourmet Meat',
+            ]
         ];
 
         foreach ($ingredients as $ingredient) {
