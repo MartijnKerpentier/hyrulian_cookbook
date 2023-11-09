@@ -90,7 +90,7 @@ class CategoriesSeeder extends Seeder
                 'name' => 'Dubious'
             ],
             [
-                'name' => 'Potions and Elixirs'
+                'name' => 'Elixir'
             ],
             [
                 'name' => 'Simmered'
