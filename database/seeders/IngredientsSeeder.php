@@ -150,7 +150,7 @@ class IngredientsSeeder extends Seeder
                 'name' => 'Two or more effects',
             ],
             [
-                'name' => 'Monster Parts',
+                'name' => 'Different Monster Parts',
             ],
             [
                 'name' => 'Gemstones',
@@ -178,6 +178,42 @@ class IngredientsSeeder extends Seeder
             ],
             [
                 'name' => 'Raw Meat or Raw Bird Drumstick',
+            ],
+            [
+                'name' => 'Chilly Critter',
+            ],
+            [
+                'name' => 'Electro Critter',
+            ],
+            [
+                'name' => 'Enduring Critter',
+            ],
+            [
+                'name' => 'Energizing Critter',
+            ],
+            [
+                'name' => 'Fireproof Critter',
+            ],
+            [
+                'name' => 'Hasty Critter',
+            ],
+            [
+                'name' => 'Hearty Animal',
+            ],
+            [
+                'name' => 'Mighty Animal',
+            ],
+            [
+                'name' => 'Sneaky Critter',
+            ],
+            [
+                'name' => 'Spicy Critter',
+            ],
+            [
+                'name' => 'Tough Critter',
+            ],
+            [
+                'name' => 'Any Monster Part',
             ]
         ];
 
