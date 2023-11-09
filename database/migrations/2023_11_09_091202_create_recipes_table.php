@@ -14,10 +14,10 @@ return new class extends Migration
         Schema::create('recipes', function (Blueprint $table) {
             $table->id();
             $table->string('name');
+            $table->string('effect');
             $table->text('description');
-            $table->text('ingredients');
-            $table->string('image_url');
-            $table->foreignId('category_id')->constrained();
+            $table->string('image_url')->nullable();
+            $table->foreignId('ingredient_id')->nullable()->constrained();
             $table->timestamps();
         });
     }
