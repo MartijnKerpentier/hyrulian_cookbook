@@ -105,8 +105,12 @@ class CategoriesSeeder extends Seeder
                 'name' => 'Monster Food'
             ],
             [
+                'name' => 'Deep-Fried'
+            ],
+            [
                 'name' => 'Other'
             ],
+            
         ];
 
         foreach ($categories as $category) {
