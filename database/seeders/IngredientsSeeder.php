@@ -90,7 +90,7 @@ class IngredientsSeeder extends Seeder
                 'name' => 'Courser Bee Honey',
             ],
             [
-                'name' => 'Four Different Seafood',
+                'name' => 'Four Different Seafoods',
             ],
             [
                 'name' => 'Spicy Pepper',
