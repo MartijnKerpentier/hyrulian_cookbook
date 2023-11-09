@@ -172,6 +172,12 @@ class IngredientsSeeder extends Seeder
             ],
             [
                 'name' => 'Any Gourmet Meat',
+            ],
+            [
+                'name' => 'Apple or Wildberry',
+            ],
+            [
+                'name' => 'Raw Meat or Raw Bird Drumstick',
             ]
         ];
 
