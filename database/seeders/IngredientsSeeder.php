@@ -153,10 +153,10 @@ class IngredientsSeeder extends Seeder
                 'name' => 'Monster Parts',
             ],
             [
-                'name' => 'Wood',
+                'name' => 'Gemstones',
             ],
             [
-                'name' => 'Gemstones',
+                'name' => 'Wood or Gemstones',
             ],
             [
                 'name' => 'Fairy',
