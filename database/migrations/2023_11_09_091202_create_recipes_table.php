@@ -17,6 +17,7 @@ return new class extends Migration
             $table->string('effect')->nullable();
             $table->text('description');
             $table->string('image_url')->nullable();
+            $table->foreignId('category_id')->constrained();
             $table->timestamps();
         });
     }
