@@ -17,7 +17,7 @@ return new class extends Migration
             $table->string('effect')->nullable();
             $table->text('description');
             $table->string('image_url')->nullable();
-            $table->foreignId('ingredient_id')->nullable()->constrained();
+            $table->foreignId('ingredients')->nullable()->constrained();
             $table->timestamps();
         });
     }
