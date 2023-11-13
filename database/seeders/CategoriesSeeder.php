@@ -111,7 +111,7 @@ class CategoriesSeeder extends Seeder
                 'name' => 'Other'
             ],
             [
-                'name' => 'Dessert'
+                'name' => 'Desserts'
             ]
             
         ];
