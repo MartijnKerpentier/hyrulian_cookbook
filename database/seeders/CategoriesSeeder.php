@@ -30,6 +30,9 @@ class CategoriesSeeder extends Seeder
                 'name' => 'Rice Balls'
             ],
             [
+                'name' => 'Rice Balls'
+            ],
+            [
                 'name' => 'Other Rice Dishes'
             ],
             [
