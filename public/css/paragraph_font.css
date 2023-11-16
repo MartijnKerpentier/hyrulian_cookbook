@@ -3,6 +3,6 @@
     src: url('quest.ttf') format('opentype');
 }
 
-p {
+p, a {
     font-family: 'QuestFont', sans-serif;
 }
