@@ -6,7 +6,7 @@
                 <!-- Logo -->
                 <div class="flex-shrink-0">
                     <a href="{{ route('home') }}">
-                        <img class="block h-9 w-auto fill-current text-white" src="/logo.png" alt="Hyrulian Cookbook Logo" />
+                        <img class="block h-16 w-auto fill-current text-white" src="/images/triforce.png" alt="Hyrulian Cookbook Logo" />
                     </a>
                 </div>
 
