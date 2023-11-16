@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'QuestFont';
+    src: url('quest.ttf') format('opentype');
+}
+
+p {
+    font-family: 'QuestFont', sans-serif;
+}
